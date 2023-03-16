@@ -1,0 +1,2 @@
+Mi aplicacion es una simple interfaz grafica que sirve para introducir notas y nombres de alumnos de una clase y se van a ir almacenando dentro de una base de datos mysql
+se pueden modificar notas atraves del numero de clase , eliminar alumnos etc.
